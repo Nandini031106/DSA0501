@@ -1,0 +1,12 @@
+Order_ID,Customer_ID,Date,Product,Category,Quantity,Unit_Price,Discount_pct,Rating,Sales_Amount,Month,Month_Name,Customer_Name,City
+32,1056,2024-02-01,Phone,Accessories,7,73057.41,12.495000000000001,3.0,471205.68,2,February,Customer_1056,Chennai
+34,1056,2024-02-03,Phone,Accessories,7,67544.17,6.7,3.0,441130.97,2,February,Customer_1056,Chennai
+81,1094,2024-03-21,Monitor,Accessories,7,79954.04,11.99,3.0,492572.85,3,March,Customer_1094,Bengaluru
+260,1075,2024-09-16,Keyboard,Electronics,6,75668.83,2.17,4.7,444160.9,9,September,Customer_1075,Coimbatore
+284,1025,2024-10-10,Laptop,Accessories,6,77250.57,4.52,2.8,442553.07,10,October,Customer_1025,Coimbatore
+334,1014,2024-11-29,Monitor,Accessories,7,79486.67,18.73,2.5,452191.72,11,November,Customer_1014,Coimbatore
+348,1096,2024-12-13,Laptop,Accessories,7,73301.72,6.88,3.0,477809.93,12,December,Customer_1096,Bengaluru
+362,1015,2024-12-27,Tablet,Electronics,7,78083.85,4.47,4.9,522154.51,12,December,Customer_1015,Coimbatore
+386,1024,2025-01-20,Monitor,Accessories,6,78071.01,2.57,4.9,456387.51,1,January,Customer_1024,Madurai
+390,1061,2025-01-24,Monitor,Accessories,7,78186.82,1.06,4.4,541506.28,1,January,Customer_1061,Madurai
+468,1025,2025-04-12,Monitor,Accessories,7,76505.71,0.8,3.1,531255.65,4,April,Customer_1025,Coimbatore

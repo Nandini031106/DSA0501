@@ -1,0 +1,10 @@
+Technique,Purpose
+Line Chart,Time trends
+Bar Chart,Category comparison
+Histogram,Distribution
+Scatter Plot,Variable relationship
+Box Plot,Outliers
+Scatter Matrix,Multiple relationships
+Lag Plot,Sequential dependence
+Autocorrelation Plot,Time-series dependence
+Bootstrap Plot,Uncertainty
